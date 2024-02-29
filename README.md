@@ -1,30 +1,32 @@
 # Final Deliverables
 At the conclusion of the practicum, each team is required to submit a final report or slide deck that
 covers, at the very least, the following items:
-Executive Summary
-o Project purpose
-            o Major accomplishments
-            o Conclusions & recommendations
-Problem Understanding
-            o Project background and status
-            o Improvements 
-            o Desired outcomes
-            o Challenges
-Methodology
-o Data Analyzed
-o Analytics Techniques Used
-o
-o
-Results, Conclusions, and/or Recommendations
-	o Achievements (model accuracy, improve revenue)
-o 
 
-Potential Next Steps
-	o Model refinement (advanced models, third-party data)
-o Improve email content (use ML)
-	o Feedbacks from donors
+* Executive Summary
+	* Project purpose
+	* Major accomplishments
+   	* Conclusions & recommendations
 
-Risk Considerations
-	o Compliance（laws）
-o Model accuracy with new data
-o Privacy
+* Problem Understanding
+ 	* Project background and status
+   	* Improvements
+  * Desired outcomes
+  * Challenges
+* Methodology
+	* Data Analyzed
+ 	* Analytics Techniques Used
+
+* Results, Conclusions, and/or Recommendations
+	* Achievements (model accuracy, improve revenue)
+
+* Potential Next Steps
+	* Model refinement (advanced models, third-party data)
+ 	* Improve email content (use ML)
+  	* Feedbacks from donors
+
+* Risk Considerations
+	* Compliance（laws）
+ 	* Model accuracy with new data
+  	* Privacy
+ 
+
