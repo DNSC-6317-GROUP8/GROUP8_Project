@@ -3,13 +3,12 @@ At the conclusion of the practicum, each team is required to submit a final repo
 covers, at the very least, the following items:
 
 * Executive Summary
-	* Brief overview of the project: The Nature Conservancy, the largest environmental non-profit, relies on fundraising efforts to support its mission.
-	* Highlight the importance of maximizing net revenue for The Nature Conservancy: To ensure financial sustainability, it is crucial to maximize revenue efficiently.
+	* For the client to ensure financial sustainability, it is crucial to maximize revenue efficiently.
 	* Mention the approach and aim taken to develop a two-stage direct response model: This project aims to develop a Two-stage Direct Response Predictive Model to optimize net revenue for fundraising appeals. By leveraging machine learning, we aim to target donors effectively, balancing responsiveness and value to maximize returns.
 
 
 * Problem Understanding
-	* The Nature Conservancy faces the challenge of optimizing its direct-mail fundraising appeals program to maximize net revenue. 
+	* The client faces the challenge of optimizing its direct-mail fundraising appeals program to maximize net revenue. 
 	* Traditional approaches lack precision, leading to inefficiencies. Appeal to all donors risks financial losses, while targeting only the most responsive donors neglects high-value, less responsive ones. 
 	* Balancing responsiveness and value are critical for success.
 
