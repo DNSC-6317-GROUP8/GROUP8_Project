@@ -21,14 +21,18 @@ covers, at the very least, the following items:
 
 * Methodology: Analytics Techniques
 	* Machine Learning Algorithms: Utilizing supervised learning techniques such as logistic regression, decision trees, and ensemble methods.
-	* Two-stage Model Development: Segmentation of donors based on responsiveness and value, followed by personalized targeting strategies.
-	* Specific details on the data sources and characteristics.
+	* Two-stage Model Development: Segmentation of donors based on responsiveness and gift value.
+  	* Stage One:
+  		* Decision Tree Classifier
+  	 	* Logistic Regression
+  	* Stage Two:
+  		* Decision Tree Regressor
+  	 	* Random Forest Regressor	  	 	
 
 
 * Results, Conclusions, and/or Recommendations
-	* The results obtained from the two-stage direct response model.
-		* The nature of the two-stage model will require a final calculation to be made using the output from the two models. Specifically, we will be guided by the following (per donator):
-			* Expected Revenue =  Probability of Donation * Predicted Gift Amount
+	* The nature of the two-stage model requires a final calculation to be made using the output from the two models. Specifically, we are  guided by the following (per donator):
+		* Expected Revenue =  Probability of Donation * Predicted Gift Amount
 	* The key findings or insights gained from the analysis.
 	* Conclusions drawn and recommendations for future campaign strategies.
 
