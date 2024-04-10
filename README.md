@@ -1,6 +1,4 @@
 # Final Deliverables
-At the conclusion of the practicum, each team is required to submit a final report or slide deck that
-covers, at the very least, the following items:
 
 * Executive Summary
 	* For the client to ensure financial sustainability, it is crucial to maximize revenue efficiently.
@@ -31,6 +29,28 @@ covers, at the very least, the following items:
 
 
 * Results, Conclusions, and/or Recommendations
+
+	* Stage One Results
+   		* AUC:
+   
+ 		![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/bb86973e-f493-49de-b5aa-3b670fc8427b)
+   	* Stage Two Results
+  
+   	  	* Residuals:
+   	  
+  		![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/259f2b1b-e9a4-4fda-8cde-9e1dab00bfd4) ![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/c3585659-a000-4349-9ef7-5c7a70ba8082)
+
+		* Ensembled Model Prediction vs. Actual:
+
+   	  	![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/25b113a1-6a54-4549-97dc-ed2aef5d8daf)
+
+   	  	* Distribution Comparison
+   	 
+		![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/0482fcd0-20c8-431d-9c69-83bda49f1ddc) ![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/875de3ca-dd07-433e-9331-246d59cbebd8)
+
+
+
+
 	* The nature of the two-stage model requires a final calculation to be made using the output from the two models. Specifically, we are  guided by the following (per donator):
 		* Expected Revenue =  Probability of Donation * Predicted Gift Amount
 	* The key findings or insights gained from the analysis.
