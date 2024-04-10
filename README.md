@@ -3,12 +3,15 @@
 * Executive Summary
 	* For the client to ensure financial sustainability, it is crucial to maximize revenue efficiently.
 	* Mention the approach and aim taken to develop a two-stage direct response model: This project aims to develop a Two-stage Direct Response Predictive Model to optimize net revenue for fundraising appeals. By leveraging machine learning, we aim to target donors effectively, balancing responsiveness and value to maximize returns.
+ 	* Stage one utilizes classification methods to predict the likelihood of donating.
+  	* Stage two performs regression analysis to predict gift amount. 
 
 
 * Problem Understanding
 	* The client faces the challenge of optimizing its direct-mail fundraising appeals program to maximize net revenue. 
 	* Traditional approaches lack precision, leading to inefficiencies. Appeal to all donors risks financial losses, while targeting only the most responsive donors neglects high-value, less responsive ones. 
 	* Balancing responsiveness and value are critical for success.
+ 	* In order to generate profit, donations received must be greater than the cost of mailing the appeals. Each mail appeal costs approximately $0.80. 
 
 
 * Methodology: Data Analyzed
