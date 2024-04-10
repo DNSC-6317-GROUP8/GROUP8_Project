@@ -17,6 +17,7 @@
 * Methodology: Data Analyzed
 	* Demographic Data: Demographic information, donation history, and responsiveness to appeals.
 	* Transactional Data: Previous campaign performance metrics, including response rates and revenue generated.
+ 	* Target Data: Internally collected data reflecting past donor history. Includes the target variables "TGTresp" and "TGTgiftamt" 
 	* Data preprocessing includes cleaning, normalization, and feature engineering to prepare for analysis.
 
 
