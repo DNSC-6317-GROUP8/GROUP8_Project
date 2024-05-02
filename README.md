@@ -61,17 +61,17 @@
 	* Stage One Results
    		* AUC:
    		
- 		![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/09678756-e2f9-4558-bd3d-50897d0458a6)
+ 		![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/af7312c9-e1a0-44fc-8c1a-9b58ff9c49fc)
    	* Stage Two Results
 
 		* Ensembled Model Prediction vs. Actual:
 
-   	  	![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/4c16fa56-b3de-40ef-8b89-1f1eb495625e)
+   	  	![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/41d08ae1-62c9-44fa-a13a-18a86a2b4d30)
 
    	  	* Distribution Comparison
    	 
-		![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/66ab5728-cf3e-4525-a9a8-6cb6ee068626)
-![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/2345c01d-5f55-4c87-882b-483032d8f352)
+		![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/6a3d4f2b-cab5-45fb-bcc9-0384f6c9e959)
+![image](https://github.com/DNSC-6317-GROUP8/GROUP8_Project/assets/83142814/6c235ee3-abf5-47f9-add3-f89d00a4b826)
 
 
 
@@ -80,15 +80,15 @@
 	* The nature of the two-stage model requires a final calculation to be made using the output from the two models. Specifically, we are  guided by the following (per donator):
 		* Expected Revenue =  Probability of Donation * Predicted Gift Amount
 	* Calculation Results:
-		* Mean expected gift amount: $8.20
-		* Max expected gift amount: $94.80
-		* Interquartile range: $3.31 - $10.47
+		* Mean expected gift amount: $3.26
+		* Max expected gift amount: $100.02
+		* Interquartile range: $1.11 - $4.17
 
 
 
 * Potential Next Steps
 	* Potential actions to further optimize the direct-mail fundraising appeals program.
-	* Future enhancements to the models should focus on handling outlier donors. This model’s output is limited to predicting expected gift amounts within our min and max ($0.00-$94.80). 
+	* Future enhancements to the models should focus on handling outlier donors. This model’s output is limited to predicting expected gift amounts within our min and max ($0.00-$100.02). 
 		* In our original training data, analysis found that outliers were gift amounts over $72.00
 	* Explore integration with other fundraising channels, such as online campaigns or events.
 		* Conduct further analysis on lower deciles to determine if they are more responsive to other donation channels
